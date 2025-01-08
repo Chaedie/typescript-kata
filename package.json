@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest"
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
     "@type-challenges/utils": "^0.1.1",
-    "type-testing": "^0.2.0"
+    "type-testing": "^0.2.0",
+    "vitest": "^2.1.8"
   }
 }
