@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@type-challenges/utils": "^0.1.1",
     "type-testing": "^0.2.0"
   }
 }
