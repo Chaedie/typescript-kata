@@ -6,3 +6,4 @@ TypeScript 연습장입니다.
 
 - [ ] `Record<string, string>` 타입으로 지정해보자.
 - [ ] `as Type` 이 아닌 `variable: Type` 을 사용하자.
+- [ ] index signature 보단 mapped type 을 사용하자.
